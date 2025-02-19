@@ -23,5 +23,5 @@ From Arduino IDE:
 
 4-NTPClient
 
-#Files You Need To Edit
+### Files You Need To Edit
 secret.h: add credentials for the connections
