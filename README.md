@@ -12,12 +12,16 @@ https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor
 libraries need to be installed:
 
 1- Wife Frimware :
+
 https://pmanzoni.notion.site/MQTT-with-Nicla-14db85cfd46580758314ced9f3e26ea7
 
 From Arduino IDE:
+
 2- PubSubClient
+
 3-Grove_Temperature_And_Humidity_Sensor
+
 4-NTPClient
 
-secret.h:
-add cred for the connections
+#Files You Need To Edit
+secret.h: add credentials for the connections
