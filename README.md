@@ -1,4 +1,4 @@
-# Tomato_Leafs_Diseases_Classification_TinyML
+# Tomato_Leaves_Diseases_Classification_TinyML
 
 Part of The Dataset:
 https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
